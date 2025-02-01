@@ -25,6 +25,7 @@ function App() {
     },
     [length,numberAllowed,charAllowed,setPassword]
   );
+  
   return (
   
     <div className='w-full max-w-md mx-auto shadow-md rounded-lg 
